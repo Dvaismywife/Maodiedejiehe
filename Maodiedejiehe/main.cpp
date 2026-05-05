@@ -7,7 +7,5 @@ int main() {
 	startgame();
 	formalgame();
 	next();
-	
-
 	endgame();
 }
